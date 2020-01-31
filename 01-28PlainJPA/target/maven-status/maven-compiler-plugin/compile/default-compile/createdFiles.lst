@@ -1,0 +1,5 @@
+entity\EntityTester.class
+entity\Book_.class
+facade\BookFacade.class
+facade\FacadeRunner.class
+entity\Book.class
