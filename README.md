@@ -36,6 +36,8 @@ The reason for time trouble is that for some reason my Droplet suddenly stopped 
 have to recreate the server and reinstall everything, thus I have not managed to finish part 4 of the assignment either (deployment).
 Despite this I feel confident in the procedure and I feel that I have achieved the understanding of how JSON and DTOs work.
 
+Day 5: A slight lapse in concentration or a misunderstanding led me to believe that the hand-in deadline was at 23:59 tonight. If I haven't
+added the day 5 excercise by 16:00 as I was supposed to, this is why. Sorry!
 
 
 
