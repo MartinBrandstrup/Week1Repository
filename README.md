@@ -9,6 +9,7 @@ Day 2: involved two assignments; "Fundamental JPA and Facades Guideline" & "Fund
 The first of which you can probably skip seeing as it does not contain anything unique to this week and is not mentioned in the friday hand-in.
 Nevertheless I have uploaded it as
 - "01-28PlainJPA" just to be sure.
+
 The other assignment is split in two projects by the names:
 - "01-28Customer"
 - "01-28Point"
@@ -19,6 +20,7 @@ Day 3: introduces REST and JSON and how to use endpoints in a web application. T
 "REST-intro-day3-exercises" has been dubbed
 - "01-29Rest1"
 - "01-29Customer_withRest"
+
 For the first assignment use this path to verify it is working (after running the project).
 http://localhost:8080/01-29rest1/api/animal/random
 For the second assignment, seeing as it is a continuation of Day2, again, you will need a local MySQL DB with the proper name and connection
@@ -27,6 +29,7 @@ setup to make it work.
 Day 4: I went against the instructions a little bit and instead of naming my database "Week1Day4" I went with "01-30Employee" for consistency.
 Thus logically can be surmised that the project title is:
 - "01-30Employee"
+
 I started to encounter time trouble at this point, so I am missing a few JUnit tests. I have included one for the getById and getAll. I hope
 that this is enough to show that I have mastered the art of testing!
 The reason for time trouble is that for some reason my Droplet suddenly stopped working and I am unable to connect to it. I am afraid I will
