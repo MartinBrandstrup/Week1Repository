@@ -82,6 +82,15 @@ public class EmployeeFacade
             em.close();
         }
     }
+    
+//    public List<EmployeeDTO> getAllEmployeesDTO()
+//    {
+//        EntityManager em = getEntityManager();
+//        try
+//        {
+//            TypedQuery<EmployeeDTO>
+//        }
+//    }
 
     public Employee getEmployeeWithHighestSalary()
     {
